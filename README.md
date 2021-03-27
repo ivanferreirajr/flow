@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Flow
+Flow is an application built for people who are spending a lot of time working on the computer, studying or something. Its construction is based on the Pomodoro Technique and during the breaks some exercises are introduced to improve our health.
 
-## Getting Started
+## ⚙ **Technologies**
 
-First, run the development server:
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 🎨 **Layout**
+
+Design on [Figma](https://www.figma.com/file/u4o6Iuttxt1PfISFuOCJGh/Flow?node-id=1%3A139) (🚧 In construction)
+
+## 🚀 **Demo**
+
+Deploy on [Vercel](https://flow-mocha.vercel.app)
+
+## 🔥 **Install Guild**
+
+### Requiments 
+- [Node.js](https://nodejs.org/en/docs/)
+- Package manager (NPM ou Yarn)
+
+### Getting Started
+In terminal:
 
 ```bash
+# Clone repositorie
+git clone https://github.com/ivanferreirajr/flow.git
+
+# Entry in folder
+cd flow
+
+# Install dependencies
+npm install
+
+#Run the development server:
 npm run dev
 # or
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000/) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+</br>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 📄 **License**
+This project is under MIT license. See the
+[LICENSE](/LICENSE) file for more details
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+</br>
 
-## Learn More
+---
+Make with ☕ by [Ivan Ferreira](https://github.com/ivanferreirajr)
 
-To learn more about Next.js, take a look at the following resources:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.junior@dcomp.ufs.br)](mailto:ivan.junior@dcomp.ufs.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanferreirajr/)](https://www.linkedin.com/in/ivanferreirajr/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+</br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+>This project is basied in a project developed during the [Next Level Week]([https://nextlevelweek.com/](https://nextlevelweek.com/)) promoted by [Rocketseat]([https://rocketseat.com.br](https://rocketseat.com.br/)) and the base layout was developed by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/), and you can access it on [Figma](https://www.figma.com/file/U6w8sVwxAzvP2mI3sTTdaE/Move.it-1.0).
